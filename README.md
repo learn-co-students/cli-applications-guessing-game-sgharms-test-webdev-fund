@@ -17,7 +17,7 @@ guess. If you guess right, you win, if not, you lose.
 The implementation of this game is not so simple. You will need to utilize what
 you've learned about methods and conditional logic. In addition, we will
 also introduce a way to capture user input, `gets`. First, though, let's refresh
-on what a CLI application is.
+on whatf a CLI application is.
 
 ## Review the Command Line Interface
 
